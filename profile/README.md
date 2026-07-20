@@ -14,9 +14,9 @@ Afflux is a platform connecting developers with hackathons, opportunities, verif
 ## 🌐 Connect
 
 - Website: https://afflux.onrender.com
-- Discord
-- X
-- Instagram
+- Discord: https://discord.gg/ckdttN7auM
+- X: https://x.com/AffluxPlatform
+- Instagram: https://www.instagram.com/affluxplatform/
 
 ---
 
