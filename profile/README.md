@@ -20,4 +20,4 @@ Afflux is a platform connecting developers with hackathons, opportunities, verif
 
 ---
 
-Building the future for developers.
+Connecting developers with opportunities, recognition, and growth.
